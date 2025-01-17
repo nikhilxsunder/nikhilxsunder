@@ -9,6 +9,8 @@
 
 Hello! I'm Nikhil Sunder, a novice python developer with a keen interest in financial technologies and cryptocurrency. I enjoy building robust and scalable applications that solve real-world problems. My expertise lies in math, economics, and data analysis.
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nikhil-sunder" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/nikhil-sunder?trk=profile-badge">Nikhil Sunder</a></div>
+
 ## Projects
 
 ### binance_us Package
