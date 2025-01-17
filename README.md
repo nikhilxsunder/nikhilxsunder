@@ -6,7 +6,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=nikhilxsunder.nikhilxsunder" alt="visitors"/> 
     <a href="https://www.linkedin.com/in/nikhil-sunder"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:nsunder724@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://pypi.org/user/nikhilxsunder"><img src="https://img.shields.io/badge/PyPI-3776AB?style=flat&logo=pypi&logoColor=white" alt="PyPI"></a>
+    <a href="https://pypi.org/user/nikhil.sunder"><img src="https://img.shields.io/badge/PyPI-3776AB?style=flat&logo=pypi&logoColor=white" alt="PyPI"></a>
     <img src="https://img.shields.io/badge/Python-3.13-blue.svg" alt="Python 3.13"/>
     <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
