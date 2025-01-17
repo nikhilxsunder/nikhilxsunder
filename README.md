@@ -2,16 +2,7 @@
 
 ## About Me
 
-Hello! I'm Nikhil Sunder, a passionate software developer with a keen interest in financial technologies and cryptocurrency. I enjoy building robust and scalable applications that solve real-world problems. My expertise lies in Python, API development, and data analysis.
-
-## Professional Experience
-
-I have extensive experience working with various technologies and platforms, including:
-
-- **Python**: Proficient in developing applications, scripts, and automation tools.
-- **API Development**: Skilled in designing and implementing RESTful APIs.
-- **Data Analysis**: Experienced in analyzing and visualizing data using libraries like Pandas and Matplotlib.
-- **Cryptocurrency**: Knowledgeable in blockchain technology and cryptocurrency trading.
+Hello! I'm Nikhil Sunder, a novice python developer with a keen interest in financial technologies and cryptocurrency. I enjoy building robust and scalable applications that solve real-world problems. My expertise lies in math, economics, and data analysis.
 
 ## Projects
 
