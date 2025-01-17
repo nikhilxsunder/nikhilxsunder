@@ -6,7 +6,7 @@ Hello! I'm Nikhil Sunder, a novice python developer with a keen interest in fina
 
 ## Projects
 
-### Binance US API Package
+### binance_us Package
 
 A simple package for connecting to the Binance US API. This package allows users to interact with most Binance US API v3 endpoints, post trades and orders, and retrieve market data.
 
@@ -20,4 +20,16 @@ You can install the package using pip:
 
 ```sh
 pip install binance_us
+```
+
+### fedfred Package
+
+A simple python wrapper for interacting with the US Federal Reserve database: FRED®
+
+### Installation
+
+You can install the package using pip:
+
+```sh
+pip install fedfred
 ```
