@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
     <a href="https://www.quantconnect.com/"><img src="https://img.shields.io/badge/QuantConnect-000000?style=flat&logo=quantconnect&logoColor=white" alt="QuantConnect"></a>
 </p>
+
 ## Activity
 <!-- dark snake -->
 ![nikhilxsunder's github activity graph](https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/output/github-contribution-grid-snake-dark.svg)
