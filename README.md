@@ -1,5 +1,13 @@
 # Nikhil Sunder
 
+<!-- dark snake -->
+![nikhilxsunder's github activity graph](https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/output/github-contribution-grid-snake-dark.svg)
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
+
 ## About Me
 
 Hello! I'm Nikhil Sunder, a novice python developer with a keen interest in financial technologies and cryptocurrency. I enjoy building robust and scalable applications that solve real-world problems. My expertise lies in math, economics, and data analysis.
@@ -13,8 +21,6 @@ A simple package for connecting to the Binance US API. This package allows users
 [![Build and test GitHub](https://github.com/nikhilxsunder/binance_us/actions/workflows/main.yml/badge.svg)](https://github.com/nikhilxsunder/binance_us/actions)
 [![PyPI version](https://img.shields.io/pypi/v/binance_us.svg)](https://pypi.org/project/binance_us/)
 [![Downloads](https://img.shields.io/pypi/dm/binance_us.svg)](https://pypi.org/project/binance_us/)
-
-### Installation
 
 You can install the package using pip:
 
@@ -30,10 +36,11 @@ pip install binance_us
 
 A simple python wrapper for interacting with the US Federal Reserve database: FRED®
 
-### Installation
+
 
 You can install the package using pip:
 
 ```sh
 pip install fedfred
 ```
+
