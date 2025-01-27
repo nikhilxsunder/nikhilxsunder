@@ -27,3 +27,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=binance-us&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=xcodedemo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikhilxsunder&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
