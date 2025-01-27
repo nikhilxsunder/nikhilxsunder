@@ -19,13 +19,14 @@
 ## Activity
 <!-- dark snake -->
 ![nikhilxsunder's github activity graph](https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/output/github-contribution-grid-snake-dark.svg)
-[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilxsunder&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxsunder&show_icons=true&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilxsunder&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/nikhilxsunder/nikhilxsunder)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxsunder&show_icons=true&theme=tokyonight&layout=donut)](https://github.com/nikhilxsunder/nikhilxsunder)
 
 ## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=fedfred&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=binance-us&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=xcodedemo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=fedfred&theme=tokyonight)](https://github.com/nikhilxsunder/fedfred)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=binance-us&theme=tokyonight)](https://github.com/nikhilxsunder/binance-us)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=xcodedemo&theme=tokyonight)](https://github.com/nikhilxsunder/xcodedemo)
 
 ## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikhilxsunder&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikhilxsunder&theme=tokyonight)](https://github.com/nikhilxsunder/github-profile-trophy)
+
