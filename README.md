@@ -12,43 +12,18 @@
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
     <a href="https://www.quantconnect.com/"><img src="https://img.shields.io/badge/QuantConnect-000000?style=flat&logo=quantconnect&logoColor=white" alt="QuantConnect"></a>
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift"/>
+    <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white" alt="Xcode"/>
 </p>
 
 ## Activity
 <!-- dark snake -->
 ![nikhilxsunder's github activity graph](https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/output/github-contribution-grid-snake-dark.svg)
-
-## About Me
-
-Hello! I'm Nikhil Sunder, a novice Python developer with a keen interest in financial technologies and cryptocurrency. I enjoy building robust and scalable applications that solve real-world problems. My expertise lies in math, economics, and data analysis.
+[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilxsunder&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxsunder&show_icons=true&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
-
-### binance_us Package
-
-A simple package for connecting to the Binance US API. This package allows users to interact with most Binance US API v3 endpoints, post trades and orders, and retrieve market data.
-
-[![Build and test GitHub](https://github.com/nikhilxsunder/binance_us/actions/workflows/main.yml/badge.svg)](https://github.com/nikhilxsunder/binance_us/actions)
-[![PyPI version](https://img.shields.io/pypi/v/binance_us.svg)](https://pypi.org/project/binance_us/)
-[![Downloads](https://img.shields.io/pypi/dm/binance_us.svg)](https://pypi.org/project/binance_us/)
-
-You can install the package using pip:
-
-```sh
-pip install binance_us
-```
-
-### fedfred Package
-
-[![Build and test GitHub](https://github.com/nikhilxsunder/fedfred/actions/workflows/main.yml/badge.svg)](https://github.com/nikhilxsunder/fedfred/actions)
-[![PyPI version](https://img.shields.io/pypi/v/fedfred.svg)](https://pypi.org/project/fedfred/)
-[![Downloads](https://img.shields.io/pypi/dm/fedfred.svg)](https://pypi.org/project/fedfred/)
-
-A simple python wrapper for interacting with the US Federal Reserve database: FRED®
-
-You can install the package using pip:
-
-```sh
-pip install fedfred
-```
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=fedfred&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=binance-us&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=xcodedemo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
