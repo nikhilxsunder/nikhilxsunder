@@ -25,6 +25,7 @@
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=fedfred&theme=tokyonight)](https://github.com/nikhilxsunder/fedfred)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=binance-us&theme=tokyonight)](https://github.com/nikhilxsunder/binance-us)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=edgar-sec&theme=tokyonight)](https://github.com/nikhilxsunder/edgar-sec)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=xcodedemo&theme=tokyonight)](https://github.com/nikhilxsunder/xcodedemo)
 
 ## Trophies
