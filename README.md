@@ -18,16 +18,41 @@
 
 ## Activity
 <!-- dark snake -->
-![nikhilxsunder's github activity graph](https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/output/github-contribution-grid-snake-dark.svg)
-[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilxsunder&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/nikhilxsunder/nikhilxsunder)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxsunder&show_icons=true&theme=tokyonight&layout=donut)](https://github.com/nikhilxsunder/nikhilxsunder)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/output/github-contribution-grid-snake-dark.svg" alt="nikhilxsunder's github activity graph"/>
+</p>
+<p align="center">
+    <a href="https://github.com/nikhilxsunder/nikhilxsunder">
+        <img src="https://github-readme-stats.vercel.app/api?username=nikhilxsunder&show_icons=true&theme=tokyonight&rank_icon=github" alt="Nikhil's GitHub stats"/>
+    </a>
+    <a href="https://github.com/nikhilxsunder/nikhilxsunder">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxsunder&show_icons=true&theme=tokyonight&layout=donut" alt="Top Langs"/>
+    </a>
+</p>
 
 ## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=fedfred&theme=tokyonight)](https://github.com/nikhilxsunder/fedfred)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=binance-us&theme=tokyonight)](https://github.com/nikhilxsunder/binance-us)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=edgar-sec&theme=tokyonight)](https://github.com/nikhilxsunder/edgar-sec)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=xcodedemo&theme=tokyonight)](https://github.com/nikhilxsunder/xcodedemo)
+<p align="center">
+    <a href="https://github.com/nikhilxsunder/fedfred">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=fedfred&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/nikhilxsunder/edgar-sec">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=edgar-sec&theme=tokyonight" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/nikhilxsunder/binance-us">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=binance-us&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/nikhilxsunder/xcodedemo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=xcodedemo&theme=tokyonight" />
+    </a>
+</p>
 
 ## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikhilxsunder&theme=tokyonight)](https://github.com/nikhilxsunder/github-profile-trophy)
+<p align="center">
+    <a href="https://github.com/nikhilxsunder/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=nikhilxsunder&theme=tokyonight" alt="Nikhil's Trophies"/>
+    </a>
+</p>
+
 
