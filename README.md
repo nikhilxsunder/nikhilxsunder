@@ -1,6 +1,5 @@
 # Nikhil Sunder
 
-<!--   my-icons -->
 <p align="center">
     <a href="https://github.com/nikhilxsunder/nikhilxsunder"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=nikhilxsunder.nikhilxsunder" alt="visitors"/> 
@@ -17,7 +16,6 @@
 </p>
 
 ## Activity
-<!-- dark snake -->
 <p align="center">
     <img src="https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/output/github-contribution-grid-snake-dark.svg" alt="nikhilxsunder's github activity graph"/>
 </p>
@@ -45,6 +43,14 @@
     </a>
     <a href="https://github.com/nikhilxsunder/xcodedemo">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=xcodedemo&theme=tokyonight" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/nikhilxsunder/econo-objects">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=econo-objects&theme=tokyonight" />
+    </a>
+    <a href="https://github.com/nikhilxsunder/charting-demo-macos">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=charting-demo-macos&theme=tokyonight" />
     </a>
 </p>
 
