@@ -38,11 +38,11 @@
     </a>
 </p>
 <p align="center">
+    <a href="https://github.com/nikhilxsunder/finra">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=finra&theme=tokyonight" />
+    </a>
     <a href="https://github.com/nikhilxsunder/binance-us">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=binance-us&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/nikhilxsunder/xcodedemo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=xcodedemo&theme=tokyonight" />
     </a>
 </p>
 <p align="center">
