@@ -13,6 +13,7 @@
     <a href="https://www.quantconnect.com/"><img src="https://img.shields.io/badge/QuantConnect-000000?style=flat&logo=quantconnect&logoColor=white" alt="QuantConnect"></a>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift"/>
     <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white" alt="Xcode"/>
+    <a href="https://orcid.org/0009-0007-3323-1760"><img src="https://img.shields.io/badge/ORCID-0009--0007--3323--1760-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
 </p>
 
 ## Activity
