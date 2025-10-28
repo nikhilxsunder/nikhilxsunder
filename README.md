@@ -1,4 +1,4 @@
-<!-- University of Miami Herbert Business School Banner -->
+<!--- University of Miami Herbert Business School Banner --->
 <p align="center">
   <img src="https://mbaveterans.com/wp-content/uploads/2021/10/MIAMI-BUSINESS-logo.png" alt="University of Miami Herbert Business School" width="700"/>
 </p>
