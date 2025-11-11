@@ -35,11 +35,8 @@
 
 ### Research
 - **Autonomous monetary policy via RL** — replication and extensions of the Bundesbank RL paper (policy rules, non-linear environments, stability tests).  
-  - Code: [`Autonomous_Fed`](https://github.com/nikhilxsunder/Autonomous_Fed)  
-  - Data tooling: [`fedfred`](https://github.com/nikhilxsunder/fedfred)  
-- **SEC EDGAR pipelines** — clean, typed client for EDGAR submissions and filings with sync/async APIs.  
-  - Package: [`edgar-sec`](https://github.com/nikhilxsunder/edgar-sec) • PyPI & conda-forge  
-- **Time-series infrastructure** — standardized IO, transforms (log/YoY/pc1), and model-ready frames.
+  - Code: [`Autonomous_Fed`](https://github.com/erskordi/Autonomous_Fed)  
+  - Data tooling: [`fedfred`](https://github.com/nikhilxsunder/fedfred)
 
 ---
 
@@ -71,11 +68,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nikhilxsunder/econo-objects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=econo-objects&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/nikhilxsunder/charting-demo-macos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=charting-demo-macos&theme=tokyonight" />
+  <a href="https://github.com/erskordi/Autonomous_Fed">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=erskordi&repo=Autonomous_Fed&theme=tokyonight" />
   </a>
 </p>
 
