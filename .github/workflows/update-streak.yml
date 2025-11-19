@@ -1,0 +1,33 @@
+name: Update GitHub Streak Card
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Download latest streak SVG
+        run: |
+          curl -L \
+            "https://streak-stats.demolab.com?user=nikhilxsunder&theme=tokyonight&hide_border=false" \
+            -o assets/streak.svg
+
+      - name: Commit and push if updated
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/streak.svg || true
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update streak stats card"
+            git push
+          else
+            echo "No changes to commit."
+          fi
