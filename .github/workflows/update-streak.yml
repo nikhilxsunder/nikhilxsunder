@@ -11,7 +11,10 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      - name: Ensure assets directory exists
+        run: mkdir -p assets
 
       - name: Download latest streak SVG
         run: |
