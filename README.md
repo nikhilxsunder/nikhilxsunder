@@ -27,16 +27,21 @@
 ### About Me
 - B.S.B.A. in **Quantitative Economics & Finance**, **Mathematics Minor**  
 - Open-source developer — creator of **[`fedfred`](https://github.com/nikhilxsunder/fedfred)** and **[`edgar-sec`](https://github.com/nikhilxsunder/edgar-sec)**  
-- Research: **Reinforcement Learning in Monetary Policy**, **SVAR modeling**, **Financial Econometrics**  
-- Interests: Economic modeling • Policy simulation • AI & HPC • Python ecosystem design  
+- Research: **Reinforcement Learning in Monetary Policy**, **SVAR modeling**, **Econometrics**, **Neural Networks** 
+- Interests: Econometrics • Neural Networks • Machine Learning • Python ecosystem design • Quantitative Research & Development
 - Goal: Build scalable, open-source infrastructure for computational economics
 
 ---
 
 ### Research
 - **Autonomous monetary policy via RL** — replication and extensions of the Bundesbank RL paper (policy rules, non-linear environments, stability tests).  
-  - Code: [`Autonomous_Fed`](https://github.com/erskordi/Autonomous_Fed)  
+  - Code: [`Autonomous_Fed`](https://github.com/nikhilxsunder/Autonomous_Fed)  
   - Data tooling: [`fedfred`](https://github.com/nikhilxsunder/fedfred)
+- **Neural-network macro models** — construction of linear and non-linear NARX environments for policy simulation.
+  - PyTorch components including Nguyen–Widrow initialization, a Torch-native Levenberg–Marquardt optimizer, and Single Hidden Layer Feed Forward Neural Network.
+- **SEC EDGAR pipelines** — clean, typed client for EDGAR submissions and filings with sync/async APIs.  
+  - Package: [`edgar-sec`](https://github.com/nikhilxsunder/edgar-sec) • PyPI & conda-forge  
+- **Time-series infrastructure** — standardized IO, transforms (log/YoY/pc1), and model-ready frames/series.
 
 ---
 
@@ -81,7 +86,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxsunder&layout=donut&theme=tokyonight" alt="Top Languages" height="170"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikhilxsunder&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="./assets/streak.svg" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ---
@@ -100,5 +107,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
-
-
