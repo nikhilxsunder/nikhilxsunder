@@ -25,7 +25,8 @@
 ---
 
 ### About Me
-- B.S.B.A. in **Quantitative Economics & Finance**, **Mathematics Minor**  
+- B.S.B.A. in **Quantitative Economics & Finance**, **Mathematics Minor**
+- University of Miami ICSRI Research Fellow.
 - Open-source developer — creator of **[`fedfred`](https://github.com/nikhilxsunder/fedfred)** and **[`edgar-sec`](https://github.com/nikhilxsunder/edgar-sec)**  
 - Research: **Reinforcement Learning in Monetary Policy**, **SVAR modeling**, **Econometrics**, **Neural Networks** 
 - Interests: Econometrics • Neural Networks • Machine Learning • Python ecosystem design • Quantitative Research & Development
