@@ -97,7 +97,10 @@
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="./assets/streak.svg" alt="GitHub Streak"/>
+    <img
+      src="https://streak-stats.demolab.com?user=nikhilxsunder&theme=tokyonight"
+      alt="GitHub Streak"
+    />
   </a>
 </p>
 
