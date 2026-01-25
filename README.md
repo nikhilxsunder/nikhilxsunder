@@ -67,13 +67,13 @@
 <p align="center">
   <a href="https://github.com/nikhilxsunder/fedfred">
     <img
-      src="https://github-readme-stats-nikhil-sunders-projects.vercel.app/api/pin/?username=nikhilxsunder&repo=fedfred&theme=tokyonight&cache_seconds=86400&v=1"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=fedfred&theme=tokyonight&cache_seconds=86400&v=1"
       alt="fedfred"
     />
   </a>
   <a href="https://github.com/nikhilxsunder/edgar-sec">
     <img
-      src="https://github-readme-stats-nikhil-sunders-projects.vercel.app/api/pin/?username=nikhilxsunder&repo=edgar-sec&theme=tokyonight&cache_seconds=86400&v=1"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=edgar-sec&theme=tokyonight&cache_seconds=86400&v=1"
       alt="edgar-sec"
     />
   </a>
@@ -82,7 +82,7 @@
 <p align="center">
   <a href="https://github.com/erskordi/Autonomous_Fed">
     <img
-      src="https://github-readme-stats-nikhil-sunders-projects.vercel.app/api/pin/?username=erskordi&repo=Autonomous_Fed&theme=tokyonight&cache_seconds=86400&v=1"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=erskordi&repo=Autonomous_Fed&theme=tokyonight&cache_seconds=86400&v=1"
       alt="Autonomous_Fed"
     />
   </a>
