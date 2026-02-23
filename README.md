@@ -66,25 +66,16 @@
 ### Featured Projects
 <p align="center">
   <a href="https://github.com/nikhilxsunder/fedfred">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=fedfred&theme=tokyonight&cache_seconds=86400&v=1"
-      alt="fedfred"
-    />
+    <img src=".github/assets/pins/fedfred.svg" alt="fedfred" />
   </a>
   <a href="https://github.com/nikhilxsunder/edgar-sec">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilxsunder&repo=edgar-sec&theme=tokyonight&cache_seconds=86400&v=1"
-      alt="edgar-sec"
-    />
+    <img src=".github/assets/pins/edgar-sec.svg" alt="edgar-sec" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/erskordi/Autonomous_Fed">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=erskordi&repo=Autonomous_Fed&theme=tokyonight&cache_seconds=86400&v=1"
-      alt="Autonomous_Fed"
-    />
+    <img src=".github/assets/pins/Autonomous_Fed.svg" alt="Autonomous_Fed" />
   </a>
 </p>
 
