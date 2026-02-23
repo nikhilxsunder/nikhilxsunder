@@ -88,7 +88,7 @@
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src=".github/assets/streaks.svg" alt="Github_Streaks" />
+    <img src=".github/assets/streak.svg" alt="Github_Streaks" />
   </a>
 </p>
 
