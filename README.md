@@ -88,10 +88,7 @@
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=nikhilxsunder&theme=tokyonight"
-      alt="GitHub Streak"
-    />
+    <img src=".github/assets/streaks.svg" alt="Github_Streaks" />
   </a>
 </p>
 
