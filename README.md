@@ -36,7 +36,7 @@
 
 ### Research
 - **Autonomous monetary policy via RL** — replication and extensions of the Bundesbank RL paper (policy rules, non-linear environments, stability tests).  
-  - Code: [`Autonomous_Fed`](https://github.com/nikhilxsunder/Autonomous_Fed)  
+  - Code: [`Autonomous_Fed`](https://github.com/eskordi/Autonomous_Fed)  
   - Data tooling: [`fedfred`](https://github.com/nikhilxsunder/fedfred)
 - **Neural-network macro models** — construction of linear and non-linear NARX environments for policy simulation.
   - PyTorch components including Nguyen–Widrow initialization, a Torch-native Levenberg–Marquardt optimizer, and Single Hidden Layer Feed Forward Neural Network.
