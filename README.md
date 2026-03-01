@@ -68,15 +68,9 @@
   <a href="https://github.com/nikhilxsunder/fedfred">
     <img src="https://opengraph.githubassets.com/1/nikhilxsunder/fedfred" alt="fedfred" height="170"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/nikhilxsunder/edgar-sec">
     <img src="https://opengraph.githubassets.com/1/nikhilxsunder/edgar-sec" alt="edgar-sec" height="170"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/erskordi/Autonomous_Fed">
     <img src="https://opengraph.githubassets.com/1/erskordi/Autonomous_Fed" alt="Autonomous_Fed" height="170"/>
   </a>
