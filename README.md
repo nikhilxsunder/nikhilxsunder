@@ -66,16 +66,16 @@
 ### Featured Projects
 <p align="center">
   <a href="https://github.com/nikhilxsunder/fedfred">
-    <img src="https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/main/assets/pins/fedfred.svg" alt="fedfred" />
+    <img src="https://opengraph.githubassets.com/1/nikhilxsunder/fedfred" alt="fedfred" />
   </a>
   <a href="https://github.com/nikhilxsunder/edgar-sec">
-    <img src="https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/main/assets/pins/edgar-sec.svg" alt="edgar-sec" />
+    <img src="https://opengraph.githubassets.com/1/nikhilxsunder/edgar-sec" alt="edgar-sec" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/erskordi/Autonomous_Fed">
-    <img src="https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/main/assets/pins/Autonomous_Fed.svg" alt="Autonomous_Fed" />
+    <img src="https://opengraph.githubassets.com/1/erskordi/Autonomous_Fed" alt="Autonomous_Fed" />
   </a>
 </p>
 
