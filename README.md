@@ -80,12 +80,10 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/main/assets/readme/github-stats.svg" alt="GitHub Stats" height="170"/>
-  <img src="https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/main/assets/readme/top-langs.svg" alt="Top Languages" height="170"/>
-</p>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilxsunder&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxsunder&layout=donut&theme=tokyonight" alt="Top Languages" height="170"/>
   <a href="https://git.io/streak-stats">
-    <img src="https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/main/assets/streak.svg" alt="Github Streak" />
+    <img src="https://streak-stats.demolab.com?user=nikhilxsunder&theme=tokyonight" alt="Github Streak" />
   </a>
 </p>
 
