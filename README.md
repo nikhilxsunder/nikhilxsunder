@@ -38,8 +38,8 @@
 - **Autonomous monetary policy via RL** — replication and extensions of the Bundesbank RL paper (policy rules, non-linear environments, stability tests).  
   - Code: [`Autonomous_Fed`](https://github.com/eskordi/Autonomous_Fed)  
   - Data tooling: [`fedfred`](https://github.com/nikhilxsunder/fedfred)
-- **Neural-network macro models** — construction of linear and non-linear NARX environments for policy simulation.
-  - PyTorch components including Nguyen–Widrow initialization, a Torch-native Levenberg–Marquardt optimizer, and Single Hidden Layer Feed Forward Neural Network.
+- **Time Series modeling/forecasting** - SVAR/TVP-VAR, Spectral Density, Oscillatory Decomposition, Gaussian Linear State-Space.6
+- **Neural-network macro models** — Frequency Modulators, TFTs, N-BEATS, Spectral Networks, Wavelet Networks.
 - **SEC EDGAR pipelines** — clean, typed client for EDGAR submissions and filings with sync/async APIs.  
   - Package: [`edgar-sec`](https://github.com/nikhilxsunder/edgar-sec) • PyPI & conda-forge  
 - **Time-series infrastructure** — standardized IO, transforms (log/YoY/pc1), and model-ready frames/series.
