@@ -38,7 +38,7 @@
 - **Autonomous monetary policy via RL** — replication and extensions of the Bundesbank RL paper (policy rules, non-linear environments, stability tests).  
   - Code: [`Autonomous_Fed`](https://github.com/eskordi/Autonomous_Fed)  
   - Data tooling: [`fedfred`](https://github.com/nikhilxsunder/fedfred)
-- **Time Series modeling/forecasting** - SVAR/TVP-VAR, Spectral Density, Oscillatory Decomposition, Gaussian Linear State-Space.6
+- **Time Series modeling/forecasting** - SVAR/TVP-VAR, Spectral Density, Oscillatory Decomposition, Gaussian Linear State-Space.
 - **Neural-network macro models** — Frequency Modulators, TFTs, N-BEATS, Spectral Networks, Wavelet Networks.
 - **SEC EDGAR pipelines** — clean, typed client for EDGAR submissions and filings with sync/async APIs.  
   - Package: [`edgar-sec`](https://github.com/nikhilxsunder/edgar-sec) • PyPI & conda-forge  
