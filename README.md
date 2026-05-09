@@ -63,16 +63,19 @@
 
 ---
 
-### Featured Projects
+### Active Development
 <p align="center">
   <a href="https://github.com/nikhilxsunder/fedfred">
     <img src="https://opengraph.githubassets.com/1/nikhilxsunder/fedfred" alt="fedfred" height="200"/>
   </a>
-  <a href="https://github.com/nikhilxsunder/edgar-sec">
-    <img src="https://opengraph.githubassets.com/1/nikhilxsunder/edgar-sec" alt="edgar-sec" height="200"/>
+  <a href="https://github.com/edgar-sec-dev-team/edgar-sec">
+    <img src="https://opengraph.githubassets.com/1/edgar-sec-dev-team/edgar-sec" alt="edgar-sec" height="200"/>
   </a>
   <a href="https://github.com/erskordi/Autonomous_Fed">
     <img src="https://opengraph.githubassets.com/1/erskordi/Autonomous_Fed" alt="Autonomous_Fed" height="200"/>
+  </a>
+  <a href="https://github.com/nikhilxsunder/cultivars">
+    <img src="https://opengraph.githubassets.com/1/nikhilxsunder/cultivars" alt="cultivars" height="200"/>
   </a>
 </p>
 
