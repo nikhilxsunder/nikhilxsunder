@@ -1,111 +1,53 @@
-<!--- University of Miami Herbert Business School Banner --->
-<p align="center">
-  <img src="https://mbaveterans.com/wp-content/uploads/2021/10/MIAMI-BUSINESS-logo.png" alt="University of Miami Herbert Business School" width="700"/>
-</p>
-
 <h1 align="center">Nikhil Sunder</h1>
-<h3 align="center">Quantitative Economics & Finance | University of Miami Herbert Business School</h3>
-
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=780&lines=Quantitative+Economics+%26+Finance;Reinforcement+Learning+in+Monetary+Policy;SVAR+and+Financial+Econometrics;Open-Source+Developer" alt="Typing Intro"/>
-</p>
+<h3 align="center">Quantitative Economics &amp; Finance · Open-Source Scientific Software</h3>
 
 <p align="center">
-  <a href="https://github.com/nikhilxsunder"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nikhilxsunder.nikhilxsunder" alt="visitors"/> 
-  <a href="https://www.linkedin.com/in/nikhil-sunder"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:nsunder724@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://pypi.org/user/nikhil.sunder"><img src="https://img.shields.io/badge/PyPI-3776AB?style=flat&logo=pypi&logoColor=white"></a>
-  <a href="https://orcid.org/0009-0007-3323-1760">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID">
-  </a>
+  <a href="https://nikhilxsunder.github.io"><img src="https://img.shields.io/badge/website-nikhilxsunder.github.io-2a7ae2?style=flat" alt="Website"></a>
+  <a href="https://orcid.org/0009-0007-3323-1760"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://pypi.org/user/nikhil.sunder"><img src="https://img.shields.io/badge/PyPI-3776AB?style=flat&logo=pypi&logoColor=white" alt="PyPI"></a>
+  <a href="https://www.linkedin.com/in/nikhil-sunder"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:nsunder724@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### About Me
-- B.S.B.A. in **Quantitative Economics & Finance**, **Mathematics Minor**
-- University of Miami ICSRI Research Fellow.
-- Open-source developer — creator of **[`fedfred`](https://github.com/nikhilxsunder/fedfred)** and **[`edgar-sec`](https://github.com/nikhilxsunder/edgar-sec)**  
-- Research: **Reinforcement Learning in Monetary Policy**, **SVAR modeling**, **Econometrics**, **Neural Networks** 
-- Interests: Econometrics • Neural Networks • Machine Learning • Python ecosystem design • Quantitative Research & Development
-- Goal: Build scalable, open-source infrastructure for computational economics
+I build open-source infrastructure for computational economics, and research that needs it. Undergraduate in Quantitative Economics & Finance at the **University of Miami Herbert Business School**, Research Fellow at **ICSRI**, founder of **[toros-dev](https://github.com/toros-dev)**.
 
----
+The packages form one stack: **acquisition** libraries pull from primary sources, **representation** layers give the data typed structure, **modeling** libraries sit on top.
+
+### Packages
+
+| Layer | Project | | Status |
+|---|---|---|---|
+| Acquisition | **[fedfred](https://github.com/nikhilxsunder/fedfred)** | FRED / ALFRED / GeoFRED / FRASER client | [![PyPI](https://img.shields.io/pypi/v/fedfred.svg?label=)](https://pypi.org/project/fedfred/) [![Downloads](https://static.pepy.tech/badge/fedfred)](https://pepy.tech/projects/fedfred) |
+| Acquisition | **[edgar-sec](https://github.com/toros-dev/edgar-sec)** | SEC EDGAR REST API client | [![PyPI](https://img.shields.io/pypi/v/edgar-sec.svg?label=)](https://pypi.org/project/edgar-sec/) [![Downloads](https://static.pepy.tech/badge/edgar-sec)](https://pepy.tech/projects/edgar-sec) |
+| Representation | **[toros](https://github.com/toros-dev/toros)** | Self-validating financial DataFrames | ![In development](https://img.shields.io/badge/-in%20development-orange.svg) |
+| Modeling | **[cultivars](https://github.com/nikhilxsunder/cultivars)** | Bayesian, TVP, and structural VAR | ![In development](https://img.shields.io/badge/-in%20development-orange.svg) |
+| Modeling | **[ns-sdn](https://github.com/nikhilxsunder/ns-sdn)** | Neural spectral state-space architecture | ![In development](https://img.shields.io/badge/-in%20development-orange.svg) |
 
 ### Research
-- **Autonomous monetary policy via RL** — replication and extensions of the Bundesbank RL paper (policy rules, non-linear environments, stability tests).  
-  - Code: [`Autonomous_Fed`](https://github.com/eskordi/Autonomous_Fed)  
-  - Data tooling: [`fedfred`](https://github.com/nikhilxsunder/fedfred)
-- **Time Series modeling/forecasting** - SVAR/TVP-VAR, Spectral Density, Oscillatory Decomposition, Gaussian Linear State-Space.
-- **Neural-network macro models** — Frequency Modulators, TFTs, N-BEATS, Spectral Networks, Wavelet Networks.
-- **SEC EDGAR pipelines** — clean, typed client for EDGAR submissions and filings with sync/async APIs.  
-  - Package: [`edgar-sec`](https://github.com/nikhilxsunder/edgar-sec) • PyPI & conda-forge  
-- **Time-series infrastructure** — standardized IO, transforms (log/YoY/pc1), and model-ready frames/series.
 
----
+State-space models, spectral decomposition of non-stationary time series, and reinforcement learning for monetary policy.
 
-### Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Polars-4083F4?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+- **NS-SDN** — neural state-space architecture decomposing time series into a time-varying trend plus adaptive spectral components. [FLAIRS-39, 2026](https://journals.flvc.org/FLAIRS/article/view/141588) · follow-up under review
+- **[Autonomous Fed](https://github.com/erskordi/Autonomous_Fed)** — RL agents learning a central bank's reaction function across linear TVP-SVAR and nonlinear state-space economies
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dask-FC6E6B?style=flat-square&logo=dask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 </p>
 
 ---
 
-### Active Development
 <p align="center">
-  <a href="https://github.com/nikhilxsunder/fedfred">
-    <img src="https://opengraph.githubassets.com/1/nikhilxsunder/fedfred" alt="fedfred" height="200"/>
-  </a>
-  <a href="https://github.com/edgar-sec-dev-team/edgar-sec">
-    <img src="https://opengraph.githubassets.com/1/edgar-sec-dev-team/edgar-sec" alt="edgar-sec" height="200"/>
-  </a>
-  <a href="https://github.com/erskordi/Autonomous_Fed">
-    <img src="https://opengraph.githubassets.com/1/erskordi/Autonomous_Fed" alt="Autonomous_Fed" height="200"/>
-  </a>
-  <a href="https://github.com/nikhilxsunder/cultivars">
-    <img src="https://opengraph.githubassets.com/1/nikhilxsunder/cultivars" alt="cultivars" height="200"/>
-  </a>
-  <a href="https://github.com/edgar-sec-dev-team/toros">
-    <img src="https://opengraph.githubassets.com/1/edgar-sec-dev-team/toros" alt="toros" height="200"/>
-  </a>
-</p>
-
----
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilxsunder&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxsunder&layout=donut&theme=tokyonight" alt="Top Languages" height="170"/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nikhilxsunder&theme=tokyonight" alt="Github Streak" />
-  </a>
-</p>
-
----
-
-### Metrics Dashboard
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/main/github-metrics.svg" alt="GitHub Metrics"/>
-</p>
-
----
-
-### Trophies & Contributions
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilxsunder&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" alt="Trophies"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikhilxsunder/nikhilxsunder/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilxsunder&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxsunder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
