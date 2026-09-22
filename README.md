@@ -47,7 +47,5 @@ State-space models, spectral decomposition of non-stationary time series, and re
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilxsunder&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxsunder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+![GitHub Stats Card](https://ghstats.dev/api/card?username=nikhilxsunder&theme=midnight_sakura)
+![Top Languages](https://ghstats.dev/api/langs?username=nikhilxsunder&theme=midnight_sakura)
