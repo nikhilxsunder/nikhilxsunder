@@ -22,7 +22,7 @@ The packages form one stack: **acquisition** libraries pull from primary sources
 | Acquisition | **[fedfred](https://github.com/nikhilxsunder/fedfred)** | FRED / ALFRED / GeoFRED / FRASER client | [![PyPI](https://img.shields.io/pypi/v/fedfred.svg?label=)](https://pypi.org/project/fedfred/) [![Downloads](https://static.pepy.tech/badge/fedfred)](https://pepy.tech/projects/fedfred) |
 | Acquisition | **[edgar-sec](https://github.com/toros-dev/edgar-sec)** | SEC EDGAR REST API client | [![PyPI](https://img.shields.io/pypi/v/edgar-sec.svg?label=)](https://pypi.org/project/edgar-sec/) [![Downloads](https://static.pepy.tech/badge/edgar-sec)](https://pepy.tech/projects/edgar-sec) |
 | Representation | **[toros](https://github.com/toros-dev/toros)** | Self-validating financial DataFrames | ![In development](https://img.shields.io/badge/-in%20development-orange.svg) |
-| Modeling | **[cultivars](https://github.com/nikhilxsunder/cultivars)** | Bayesian, TVP, and structural VAR | ![In development](https://img.shields.io/badge/-in%20development-orange.svg) |
+| Modeling | **[cultivars](https://github.com/nikhilxsunder/cultivars)** | Bayesian, TVP, and structural VAR | [![PyPI](https://img.shields.io/pypi/v/cultivars.svg?include_prereleases&label=)](https://pypi.org/project/cultivars/) ![Pre-release](https://img.shields.io/badge/-pre--release-yellow.svg) |
 | Modeling | **[ns-sdn](https://github.com/nikhilxsunder/ns-sdn)** | Neural spectral state-space architecture | ![In development](https://img.shields.io/badge/-in%20development-orange.svg) |
 
 ### Research
