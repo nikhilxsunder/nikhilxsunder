@@ -13,7 +13,7 @@
 
 I build open-source infrastructure for computational economics, and research that needs it. Undergraduate in Quantitative Economics & Finance at the **University of Miami Herbert Business School**, Research Fellow at **ICSRI**, founder of **[toros-dev](https://github.com/toros-dev)**.
 
-The packages form one stack: **acquisition** libraries pull from primary sources, **representation** layers give the data typed structure, **modeling** libraries sit on top.
+The packages form one stack: **acquisition** libraries pull from primary sources, **representation** layers give the data typed structure, **modeling** libraries sit on top. Every released package is typed, doctested, signed, and archived on Zenodo with a citable DOI.
 
 ### Packages
 
@@ -22,14 +22,15 @@ The packages form one stack: **acquisition** libraries pull from primary sources
 | Acquisition | **[fedfred](https://github.com/nikhilxsunder/fedfred)** | FRED / ALFRED / GeoFRED / FRASER client | [![PyPI](https://img.shields.io/pypi/v/fedfred.svg?label=)](https://pypi.org/project/fedfred/) [![Downloads](https://static.pepy.tech/badge/fedfred)](https://pepy.tech/projects/fedfred) |
 | Acquisition | **[edgar-sec](https://github.com/toros-dev/edgar-sec)** | SEC EDGAR REST API client | [![PyPI](https://img.shields.io/pypi/v/edgar-sec.svg?label=)](https://pypi.org/project/edgar-sec/) [![Downloads](https://static.pepy.tech/badge/edgar-sec)](https://pepy.tech/projects/edgar-sec) |
 | Representation | **[toros](https://github.com/toros-dev/toros)** | Self-validating financial DataFrames | ![In development](https://img.shields.io/badge/-in%20development-orange.svg) |
-| Modeling | **[cultivars](https://github.com/nikhilxsunder/cultivars)** | Bayesian, TVP, and structural VAR | [![PyPI](https://img.shields.io/pypi/v/cultivars.svg?include_prereleases&label=)](https://pypi.org/project/cultivars/) |
-| Modeling | **[ns-sdn](https://github.com/nikhilxsunder/ns-sdn)** | Neural spectral state-space architecture | ![In development](https://img.shields.io/badge/-in%20development-orange.svg) |
+| Modeling | **[cultivars](https://github.com/nikhilxsunder/cultivars)** | Time series econometrics: ARIMA to state space, VAR to structural identification | [![PyPI](https://img.shields.io/pypi/v/cultivars.svg?include_prereleases&label=)](https://pypi.org/project/cultivars/) [![Downloads](https://static.pepy.tech/badge/cultivars)](https://pepy.tech/projects/cultivars) |
+| Modeling | **[ns-sdn](https://github.com/nikhilxsunder/ns-sdn)** | Neural spectral state-space model and its spectral-state diagnostics | [![PyPI](https://img.shields.io/pypi/v/ns-sdn.svg?label=)](https://pypi.org/project/ns-sdn/) [![Downloads](https://static.pepy.tech/badge/ns-sdn)](https://pepy.tech/projects/ns-sdn) |
+| Application | **[autofed](https://github.com/erskordi/Autonomous_Fed)** | RL for monetary policy under model uncertainty | ![Research](https://img.shields.io/badge/-research-blueviolet.svg) |
 
 ### Research
 
 State-space models, spectral decomposition of non-stationary time series, and reinforcement learning for monetary policy.
 
-- **NS-SDN** — neural state-space architecture decomposing time series into a time-varying trend plus adaptive spectral components. [FLAIRS-39, 2026](https://journals.flvc.org/FLAIRS/article/view/141588) · follow-up under review
+- **NS-SDN** — neural state-space architecture decomposing a time series into a time-varying trend plus adaptive spectral components, read back as spectral-state coordinates. [FLAIRS-39, 2026](https://doi.org/10.32473/flairs.39.1.141588) · [IEEE ORSS, 2026](https://doi.org/10.1109/ORSS71174.2026.11684282) · implemented as [`ns-sdn`](https://github.com/nikhilxsunder/ns-sdn), [DOI 10.5281/zenodo.23368625](https://doi.org/10.5281/zenodo.23368625)
 - **[Autonomous Fed](https://github.com/erskordi/Autonomous_Fed)** — RL agents learning a central bank's reaction function across linear TVP-SVAR and nonlinear state-space economies
 
 ### Tools
