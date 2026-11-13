@@ -1,5 +1,5 @@
 <h1 align="center">Nikhil Sunder</h1>
-<h3 align="center">Computational Economics · Open-Source Scientific Software</h3>
+<h3 align="center">Quantitative Economics &amp; Finance · Open-Source Scientific Software</h3>
 
 <p align="center">
   <a href="https://nikhilxsunder.github.io"><img src="https://img.shields.io/badge/website-nikhilxsunder.github.io-2a7ae2?style=flat" alt="Website"></a>
@@ -11,7 +11,7 @@
 
 ---
 
-I build open-source infrastructure for computational economics, and research that needs it. BSBA candidate at the **University of Miami Herbert Business School** (expected 2027), Research Fellow at **ICSRI**, founder of **[toros-dev](https://github.com/toros-dev)**.
+I build open-source infrastructure for computational economics, and research that needs it. Undergraduate in Quantitative Economics & Finance at the **University of Miami Herbert Business School**, Research Fellow at **ICSRI**, founder of **[toros-dev](https://github.com/toros-dev)**.
 
 The packages form one stack: **acquisition** libraries pull from primary sources, **representation** layers give the data typed structure, **modeling** libraries sit on top. Every released package is typed, doctested, signed, and archived on Zenodo with a citable DOI.
 
